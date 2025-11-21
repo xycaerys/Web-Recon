@@ -19,7 +19,7 @@ BOT_TOKEN = "YOUR_TOKEN_HERE"  # <-- put your bot token from BotFather here
 
 # Only these Telegram user IDs can use the bot
 ALLOWED_USER_IDS = {
-    6045775693,  # your Telegram user ID
+    00000000,  # your Telegram user ID
 }
 
 # External tools (binaries must be installed and in PATH)

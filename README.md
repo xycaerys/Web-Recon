@@ -1,4 +1,4 @@
-# 🔍 Telegram Recon Bot
+# 🔍 Telegram Web Recon Bot
 
 A private **Telegram-based recon assistant** for security researchers and bug bounty hunters.  
 It automates common recon tasks like subdomain enum, alive host detection, port scanning, URL collection, and vulnerability scanning – right from Telegram.

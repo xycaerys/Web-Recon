@@ -50,8 +50,8 @@ All commands are Telegram commands you send:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-recon-bot.git
-cd telegram-recon-bot
+git clone https://github.com/xycaerys/Web-Recon.git
+cd Web-recon
 ```
 ### 2. Create & activate virtual environment
 

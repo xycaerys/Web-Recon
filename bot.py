@@ -11,9 +11,9 @@ from telegram.ext import (
     filters,
 )
 
-# ==========================
+# =========================-
 # CONFIG
-# ==========================
+# =========================-
 
 BOT_TOKEN = "YOUR_TOKEN_HERE"  # <-- put your bot token from BotFather here
 
